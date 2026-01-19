@@ -2,7 +2,7 @@
 Web scraper using Selenium with headless Chrome to scrape CNBC World Markets page.
 Could not find solution without using this library
 """
-
+import requests
 import time
 from pathlib import Path
 
